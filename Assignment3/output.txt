@@ -1,0 +1,73 @@
+user: mjy610
+   dirs: 3
+
+user: hrb980
+   files:
+     all/hidden: ( 195 / 2 )
+   dirs: 3
+   file storage: 76235 B
+
+user: pdq039
+   dirs: 3
+
+user: zqu051
+   files:
+     all/hidden: ( 452 / 0 )
+   file storage: 652583 B
+
+user: mce237
+   files:
+     all/hidden: ( 52 / 12 )
+   dirs: 4
+   file storage: 2729344 B
+
+user: dad980
+   files:
+     all/hidden: ( 4 / 1 )
+   dirs: 3
+   file storage: 6614 B
+
+user: pmp099
+   dirs: 2
+   other: 10
+
+user: ynb963
+   files:
+     all/hidden: ( 2 / 0 )
+   dirs: 3
+   file storage: 4202 B
+
+user: xie192
+   dirs: 3
+
+user: kaq447
+   files:
+     all/hidden: ( 2 / 0 )
+   dirs: 3
+   file storage: 3092 B
+
+user: bfn715
+   dirs: 3
+
+user: root
+   files:
+     all/hidden: ( 1 / 1 )
+   dirs: 5
+   other: 1
+   file storage: 11 B
+
+user: hrm102
+   dirs: 3
+
+oldest file:
+    -r--r--r--  1 root   root          11 2020-02-25 15:30:11 .X0-lock
+newest file:
+    -rw-------  1 ynb963 students    1308 2020-04-06 19:40:46 output1586220046526
+
+total users:    13
+total files
+    all/hidden: ( 708 / 16 )
+total dirs:     38
+total other:    11
+file storage:   3472081 B
+
