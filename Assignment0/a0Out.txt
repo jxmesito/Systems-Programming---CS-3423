@@ -1,0 +1,4 @@
+My name is James Hernandez
+I am running this script from /home/jwg455/courses/cs3423/assignments
+My username is jwg455
+I am logged in to fox02
