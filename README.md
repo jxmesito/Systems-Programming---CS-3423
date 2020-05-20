@@ -1,2 +1,8 @@
 # Systems-Programming---CS-3423
-Awk, Sed, Bash and Python
+
+Assignment 0 - Preparing files
+Assignment 1 - 
+Assignment 2 -
+Assignment 3 -
+Assignment 4 -
+
